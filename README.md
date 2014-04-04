@@ -17,4 +17,4 @@ This project has multiple inter-connected parts. An overview can be seen here in
 
 
 ### Folders 
-The [BeaconProposal](https://github.com/DworkinLab/MotivationalStates_HMM/tree/master/BeaconProposal) contains the .tex file and figures for the original proposal as funded by BEACON.
+The [BeaconProposal](https://github.com/DworkinLab/MotivationalStates_HMM/tree/master/BeaconProposal) folder contains the .tex file and figures for the original proposal as funded by BEACON.
