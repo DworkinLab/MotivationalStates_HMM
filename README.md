@@ -14,3 +14,7 @@ This project has multiple inter-connected parts. An overview can be seen here in
 3 - Using predators to assess motivational states in Drosophila relating to vigilance.
 
 4 - Using data from 1-3 to assess how random effect HMM do at capturing individual variation (personality?) in motivation. Prototyping random effects HMM in STAN.
+
+
+### Folders 
+BeaconProposal[https://github.com/DworkinLab/MotivationalStates_HMM/tree/master/BeaconProposal] contains the .tex file and figures for the original proposal as funded by BEACON.
